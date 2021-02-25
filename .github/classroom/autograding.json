@@ -1,214 +1,224 @@
 {
   "tests": [
     {
-      "name": "python3 01_prefix_words.py",
+      "name": "00_run_this.py",
       "setup": "",
-      "run": "python3 01_prefix_words.py",
+      "run": "python3",
       "input": "",
       "output": "",
       "comparison": "included",
-      "timeout": 10,
-      "points": 20
+      "timeout": 1,
+      "points": 10
     },
     {
-      "name": "python3 02_suffix_words.py",
+      "name": "01_prefix_words.py",
       "setup": "",
-      "run": "python3 02_suffix_words.py",
+      "run": "python3",
       "input": "",
       "output": "",
       "comparison": "included",
-      "timeout": 10,
-      "points": 20
+      "timeout": 1,
+      "points": 10
     },
     {
-      "name": "python3 03_are_anagrams.py",
+      "name": "02_suffix_words.py",
       "setup": "",
-      "run": "python3 03_are_anagrams.py",
+      "run": "python3",
       "input": "",
       "output": "",
       "comparison": "included",
-      "timeout": 10,
-      "points": 20
+      "timeout": 1,
+      "points": 10
     },
     {
-      "name": "python3 04_is_rotating_prime.py",
+      "name": "03_are_anagrams.py",
       "setup": "",
-      "run": "python3 04_is_rotating_prime.py",
+      "run": "python3",
       "input": "",
       "output": "",
       "comparison": "included",
-      "timeout": 10,
-      "points": 20
+      "timeout": 1,
+      "points": 10
     },
     {
-      "name": "python3 05_clap_number.py",
+      "name": "04_is_rotating_prime.py",
       "setup": "",
-      "run": "python3 05_clap_number.py",
+      "run": "python3",
       "input": "",
       "output": "",
       "comparison": "included",
-      "timeout": 10,
-      "points": 20
+      "timeout": 1,
+      "points": 10
     },
     {
-      "name": "python3 06_vertical_cipher.py",
+      "name": "05_clap_number.py",
       "setup": "",
-      "run": "python3 06_vertical_cipher.py",
+      "run": "python3",
       "input": "",
       "output": "",
       "comparison": "included",
-      "timeout": 10,
-      "points": 30
+      "timeout": 1,
+      "points": 10
     },
     {
-      "name": "python3 07_connell_sequence.py",
+      "name": "06_vertical_cipher.py",
       "setup": "",
-      "run": "python3 07_connell_sequence.py",
+      "run": "python3",
       "input": "",
       "output": "",
       "comparison": "included",
-      "timeout": 10,
-      "points": 30
+      "timeout": 1,
+      "points": 10
     },
     {
-      "name": "python3 08_happy_numbers.py",
+      "name": "07_connell_sequence.py",
       "setup": "",
-      "run": "python3 08_happy_numbers.py",
+      "run": "python3",
       "input": "",
       "output": "",
       "comparison": "included",
-      "timeout": 10,
-      "points": 30
+      "timeout": 1,
+      "points": 10
     },
     {
-      "name": "python3 09_largest.py",
+      "name": "08_happy_numbers.py",
       "setup": "",
-      "run": "python3 09_largest.py",
+      "run": "python3",
       "input": "",
       "output": "",
       "comparison": "included",
-      "timeout": 10,
-      "points": 30
+      "timeout": 1,
+      "points": 10
     },
     {
-      "name": "python3 10_big_numbers.py",
+      "name": "09_largest.py",
       "setup": "",
-      "run": "python3 10_big_numbers.py",
+      "run": "python3",
       "input": "",
       "output": "",
       "comparison": "included",
-      "timeout": 10,
-      "points": 30
+      "timeout": 1,
+      "points": 10
     },
     {
-      "name": "python3 11_empty_cells.py",
+      "name": "10_big_numbers.py",
       "setup": "",
-      "run": "python3 11_empty_cells.py",
+      "run": "python3",
       "input": "",
       "output": "",
       "comparison": "included",
-      "timeout": 10,
-      "points": 40
+      "timeout": 1,
+      "points": 10
     },
     {
-      "name": "python3 12_flip_123.py",
+      "name": "11_empty_cells.py",
       "setup": "",
-      "run": "python3 12_flip_123.py",
+      "run": "python3",
       "input": "",
       "output": "",
       "comparison": "included",
-      "timeout": 10,
-      "points": 40
+      "timeout": 1,
+      "points": 10
     },
     {
-      "name": "python3 13_and_one.py",
+      "name": "12_flip_123.py",
       "setup": "",
-      "run": "python3 13_and_one.py",
+      "run": "python3",
       "input": "",
       "output": "",
       "comparison": "included",
-      "timeout": 10,
-      "points": 40
+      "timeout": 1,
+      "points": 10
     },
     {
-      "name": "python3 14_css_trick.py",
+      "name": "13_and_one.py",
       "setup": "",
-      "run": "python3 14_css_trick.py",
+      "run": "python3",
       "input": "",
       "output": "",
       "comparison": "included",
-      "timeout": 10,
-      "points": 40
+      "timeout": 1,
+      "points": 10
     },
     {
-      "name": "python3 15_dot_product.py",
+      "name": "14_css_trick.py",
       "setup": "",
-      "run": "python3 15_dot_product.py",
+      "run": "python3",
       "input": "",
       "output": "",
       "comparison": "included",
-      "timeout": 10,
-      "points": 40
+      "timeout": 1,
+      "points": 10
     },
     {
-      "name": "python3 16_high_frequency.py",
+      "name": "15_dot_product.py",
       "setup": "",
-      "run": "python3 16_high_frequency.py",
+      "run": "python3",
       "input": "",
       "output": "",
       "comparison": "included",
-      "timeout": 10,
-      "points": 40
+      "timeout": 1,
+      "points": 10
     },
     {
-      "name": "python3 17_long_distance.py",
+      "name": "16_high_frequency.py",
       "setup": "",
-      "run": "python3 17_long_distance.py",
+      "run": "python3",
       "input": "",
       "output": "",
       "comparison": "included",
-      "timeout": 10,
-      "points": 40
+      "timeout": 1,
+      "points": 10
     },
     {
-      "name": "python3 18_even_odd_sort.py",
+      "name": "17_long_distance.py",
       "setup": "",
-      "run": "python3 18_even_odd_sort.py",
+      "run": "python3",
       "input": "",
       "output": "",
       "comparison": "included",
-      "timeout": 10,
-      "points": 40
+      "timeout": 1,
+      "points": 10
     },
     {
-      "name": "python3 19_set_bits.py",
+      "name": "18_even_odd_sort.py",
       "setup": "",
-      "run": "python3 19_set_bits.py",
+      "run": "python3",
       "input": "",
       "output": "",
       "comparison": "included",
-      "timeout": 10,
-      "points": 40
+      "timeout": 1,
+      "points": 10
     },
     {
-      "name": "python3 20_balanced_brackets.py",
+      "name": "19_set_bits.py",
       "setup": "",
-      "run": "python3 20_balanced_brackets.py",
+      "run": "python3",
       "input": "",
       "output": "",
       "comparison": "included",
-      "timeout": 10,
-      "points": 40
+      "timeout": 1,
+      "points": 10
     },
     {
-      "name": "python3 21_compress_string.py",
+      "name": "20_balanced_brackets.py",
       "setup": "",
-      "run": "python3 21_compress_string.py",
+      "run": "python3",
       "input": "",
       "output": "",
       "comparison": "included",
-      "timeout": 10,
-      "points": 40
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "21_compress_string.py",
+      "setup": "",
+      "run": "python3",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
     }
   ]
 }
